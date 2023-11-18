@@ -5,15 +5,18 @@
     <style>
         .Header{
             border: 5px groove green;
-            border-radius: 40px;
+            border-radius: 20px;
             min-width: 200px;
             max-width: 670px;
             background-color: aquamarine;
-            margin: auto;
-            padding: 20px;
+            margin: 10px;
             width: 50%;
             text-align: center;
             font-family: 'Courier New', Courier, monospace;
+        }
+        .centerDiv{
+            width:50%;
+            margin:auto;
         }
         .leftMargin{
             float: left;
@@ -35,7 +38,7 @@
         }
     </style>
     <body class="azure">
-        <h1 class="Header">Rogue Lineage Official Glazing Site</h1>
+        <h1 class="Header centerDiv">Rogue Lineage Official Glazing Site</h1>
         <div>
             <p class="azure" style="text-align:center; margin: 20px;">
                 Here is a compilation of the best Rogue Lineage Glazing moments.
