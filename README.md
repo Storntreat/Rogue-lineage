@@ -17,7 +17,7 @@
         }
         .leftMargin{
             float: left;
-            max-width: 50%;
+            width: 50%;
             max-height: 40%;
             padding: 10px;
         }
