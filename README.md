@@ -19,11 +19,11 @@
             float: left;
             width: 50%;
             max-height: 40%;
-            padding: 10px;
+            margin: 10px;
         }
         .rightDiv{
             float: right;
-            padding-top: 20px;
+            margin-top: 20px;
             width: 40%;
             font-family:'Times New Roman', Times, serif;
         }
@@ -37,7 +37,7 @@
     <body class="azure">
         <h1 class="Header">Rogue Lineage Official Glazing Site</h1>
         <div>
-            <p class="azure" style="text-align:center;">
+            <p class="azure" style="text-align:center; margin: 20px;">
                 Here is a compilation of the best Rogue Lineage Glazing moments.
             </p>
         </div>
