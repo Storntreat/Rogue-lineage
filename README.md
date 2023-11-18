@@ -6,10 +6,12 @@
     <style>
         .Header{
             border: 5px groove green;
+            border-radius: 40px;
             min-width: 200px;
             max-width: 670px;
             background-color: aquamarine;
             margin: auto;
+            padding: 20px;
             width: 50%;
             text-align: center;
             font-family: 'Courier New', Courier, monospace;
@@ -41,7 +43,7 @@
             </p>
         </div>
         <div class="azure">
-         <img class="leftMargin" src="Images/Sigil helm.png" alt="funny image" style="border-radius: 25px">
+         <img class="leftMargin" src="https://cdn.discordapp.com/attachments/763431618328264732/1175257613462671420/yo_i_need_sigil_helm_bro.png?ex=656a92f2&is=65581df2&hm=a40d6a2f35d6d5e7fe865fbe192ea594e505f36f31cb2f15b729cf2792ed29bd&" alt="funny image" style="border-radius: 25px">
          <div class="rightDiv">
           <h2>Excerpt 1</h2>
           <p><em><strong>- Mia Nakanooo</strong></em></p>
