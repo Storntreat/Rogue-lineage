@@ -53,5 +53,17 @@
           <p style="color: blueviolet; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">-Disguises as a freshie ashiin</p>
          </div>
        </div>
+         <div class="azure topMargin">
+        <div class="leftMargin">
+            <h1 style="font">Excerpt 2</h1>
+            <p>The inferno.</p>
+            <p style="color: blueviolet; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">-Disguises as a tundra ranger freshie/super&nbsp;castellan.</p>
+        </div>
+        <div class="rightDiv font">
+            <img src="https://tenor.com/view/rogue-lineage-gif-20633383" style="width:100%;">
+        </div>
+      </div>
+    </body>
+</html>
     </body>
 </html>
